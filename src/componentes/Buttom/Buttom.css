@@ -1,0 +1,15 @@
+.buttom {
+  background-color: #f26440;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  position: relative;
+  left: 285px;
+  top: -38px;
+}
+.buttom a {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
